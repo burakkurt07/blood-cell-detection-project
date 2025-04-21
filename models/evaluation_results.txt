@@ -1,0 +1,13 @@
+Test Doğruluğu: 0.9917
+Test Kaybı: 0.0595
+
+Sınıflandırma Raporu:
+              precision    recall  f1-score   support
+
+   Platelets       0.98      1.00      0.99        54
+         RBC       0.99      1.00      1.00       959
+         WBC       0.98      0.89      0.93        71
+
+    accuracy                           0.99      1084
+   macro avg       0.99      0.96      0.97      1084
+weighted avg       0.99      0.99      0.99      1084

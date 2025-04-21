@@ -1,0 +1,10 @@
+Class,Split,Count
+RBC,Train,4474
+WBC,Train,332
+Platelets,Train,252
+RBC,Test,959
+WBC,Test,71
+Platelets,Test,54
+RBC,Validation,959
+WBC,Validation,72
+Platelets,Validation,55
