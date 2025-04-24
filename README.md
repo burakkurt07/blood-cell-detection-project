@@ -120,12 +120,8 @@ Projenin her aşamasında harcanan süreler detaylı olarak takip edilmiştir. Z
 
 ## Lisans
 
-Bu proje Apache 2.0 lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
+Bu proje Apache 2.0 lisansı altında lisanslanmıştır. Detaylar için lütfen `LICENSE` dosyasına bakın.
 
 ## İletişim
 
 Sorularınız veya geri bildirimleriniz için GitHub üzerinden iletişime geçebilirsiniz.
-
----
-
-*Bu proje, kan hücresi tespiti için modern bilgisayarlı görü ve derin öğrenme tekniklerini kullanmanın etkinliğini göstermektedir. Tıbbi teşhis ve araştırma alanlarında yardımcı bir araç olarak kullanılabilir.*
