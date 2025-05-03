@@ -1,3 +1,5 @@
+# TR & EN :
+
 # Kan Hücresi Tespit Projesi
 
 Bu proje, OpenCV ve derin öğrenme kullanarak kan hücrelerini (RBC, WBC ve Platelet) tespit eden bir sistem geliştirmeyi amaçlamaktadır. Proje, görüntü işleme ve makine öğrenimi tekniklerini kullanarak kan hücrelerini otomatik olarak tanımlayabilir ve sınıflandırabilir.
