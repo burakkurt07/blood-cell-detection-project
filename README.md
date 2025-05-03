@@ -1,4 +1,4 @@
-# TR & EN :
+# TR & EN
 
 # Kan Hücresi Tespit Projesi
 
